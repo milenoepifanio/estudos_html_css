@@ -1,0 +1,94 @@
+/* 4 - External */
+h3 {
+    color: green;
+}
+
+body {
+    padding-bottom: 500px;
+}
+
+P { 
+    color: blueviolet;
+}
+
+
+.paragraph {
+    background-color: #0000;
+    color: aqua;
+    padding: 5px;
+}
+
+#exclusive-title{
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
+
+h2 {
+    border-bottom: 2px solid black;
+    font-size: 40px;
+}
+
+.titulo{
+    border-bottom: 3px solid blue;
+    font-size: 40px;
+}
+
+#algum-titulo{
+    border-bottom: 4px solid green
+}
+
+/* Nome de Cores */
+
+.color{
+    color: crimson;
+}
+
+.hex{
+    color: #55A398;
+}
+
+.hex2{
+    color: #55A311;
+}
+
+.simple-hex{
+    color: #333;
+}
+
+
+.simple-hex-2{
+    color: #A5F;
+}
+
+.rgb {
+    color : rgb(255, 0, 0);
+}
+
+.mixed-rgb {
+    color : rgb(57,96,110);
+}
+
+.rgba {
+    color : rgba(100, 199, 45, 0.3);
+}
+
+.bg{
+    background-color: #000;
+    color: yellow;
+}
+
+.bg2{
+    background-color: rgb(200,20,40);
+    color: #00eaff
+}
+
+.bg-opacity{
+    background-color: green;
+    opacity: 0.7;
+}
+
+.bgba-opacity{
+    background-color: rgba(90,120,20, 0.05);
+    color: #000
+}
